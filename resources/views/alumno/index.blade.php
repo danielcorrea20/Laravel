@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>INDEX ALUMNO</h1>
+    <h1>INDEX ALUMNO NUEVO</h1>
 </body>
 </html>
